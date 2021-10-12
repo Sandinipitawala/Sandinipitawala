@@ -5,6 +5,5 @@ Energetic and passionate Software Engineering Undergraduate👩‍🎓 working t
 [![Sandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandinipitawala)](https://github.com/Sandinipitawala/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandinipitawala&layout=compact)](https://github.com/Sandinipitawala/github-readme-stats)
 
-Social Links
-Sandinipitawala | LinkedInSandiniPitawala | FacebookSandiniPitawala | InstagramSandiniPitawala | StackOverFlowSandiniPitawala | MediumSandiniPitawala
+
 
