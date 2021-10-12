@@ -12,6 +12,8 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 
 ### Social Links
 
+<a href = "https://www.facebook.com/sandini.pitawala/" target="blannk"><img align="left" src = "http://i.imgur.com/fep1WsG.png" height = "22" width = "22" /> </a>
+
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
