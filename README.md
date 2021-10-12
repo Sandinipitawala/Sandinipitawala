@@ -1,7 +1,7 @@
 ## Hi there, I'm Sandini Pitawala 👩‍💻
 
 
-<img align="left" src="https://user-images.githubusercontent.com/67331586/136979825-2377fb29-d1df-4ded-9973-8a59db627709.png" width="100" height="100"/>  
+<img align="left" src="https://user-images.githubusercontent.com/67331586/136979825-2377fb29-d1df-4ded-9973-8a59db627709.png" width="60" height="60"/>  
 
 Energetic and passionate Software Engineering Undergraduate👩‍🎓 working towards improving knowledge and skills in IT industry💻. 
 Looking forward for opportunities to enhance my capabilities while contributing to the enhancement of the organization.🙇‍♀️ 
