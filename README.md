@@ -15,20 +15,16 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 <a href = "https://www.linkedin.com/in/sandini-pitawala-5b2504194/" target="blannk"><img align="left" src = "https://user-images.githubusercontent.com/67331586/136992870-ce7ef55a-9aaf-4465-89a2-40b7c0dbf4dc.png" height = "22" width = "22" /> </a>
 <a href = "https://www.facebook.com/sandini.pitawala/" target="blannk"><img align="left" src = "http://i.imgur.com/fep1WsG.png" height = "22" width = "22" /> </a>
 <a href = "https://github.com/Sandinipitawala" target="blannk"><img align="left" src = "http://i.imgur.com/9I6NRUm.png" height = "22" width = "22" /> </a>
-<a href = "https://www.instagram.com/sandini_97/" target="blannk"><img align="left" src = "http://i.imgur.com/fep1WsG.png" height = "22" width = "22" /> </a>
+<a href = "https://www.instagram.com/sandini_97/" target="blannk"><img align="left" src = "https://user-images.githubusercontent.com/67331586/136993042-2811ec4a-94aa-4e4f-abd8-195a89fbe293.png" height = "22" width = "22" /> </a>
 
 
 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (instagram icon without padding)
 
-[1]: https://www.linkedin.com/in/sandini-pitawala-5b2504194/
-[2]: https://www.facebook.com/sandini.pitawala/
-[3]: https://github.com/Sandinipitawala
-[4]: https://www.instagram.com/sandini_97/
+
+
+
+
 
 
 
