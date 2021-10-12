@@ -12,7 +12,7 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 
 ### Social Links
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (linkedin icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [4.2]: http://i.imgur.com/jDRp47c.png (instagram icon without padding)
