@@ -12,7 +12,7 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 
 ### Social Links
 
-<a href = "https://www.linkedin.com/in/sandini-pitawala-5b2504194/" target="blannk"><img align="left" src = "http://i.imgur.com/wWzX9uB.png " height = "22" width = "22" /> </a>
+<a href = "https://www.linkedin.com/in/sandini-pitawala-5b2504194/" target="blannk"><img align="left" src = "https://user-images.githubusercontent.com/67331586/136992658-3c671e0c-c4bd-4f94-8004-4281840881ef.jpg " height = "22" width = "22" /> </a>
 <a href = "https://www.facebook.com/sandini.pitawala/" target="blannk"><img align="left" src = "http://i.imgur.com/fep1WsG.png" height = "22" width = "22" /> </a>
 <a href = "https://github.com/Sandinipitawala" target="blannk"><img align="left" src = "http://i.imgur.com/9I6NRUm.png" height = "22" width = "22" /> </a>
 <a href = "https://www.instagram.com/sandini_97/" target="blannk"><img align="left" src = "http://i.imgur.com/fep1WsG.png" height = "22" width = "22" /> </a>
@@ -29,3 +29,9 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 [2]: https://www.facebook.com/sandini.pitawala/
 [3]: https://github.com/Sandinipitawala
 [4]: https://www.instagram.com/sandini_97/
+
+
+
+
+
+
