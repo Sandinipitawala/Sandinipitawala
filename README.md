@@ -1,6 +1,6 @@
 ## Hi there, I'm Sandini Pitawala 👩‍💻
 
-![welcome](https://user-images.githubusercontent.com/67331586/136978754-6976d4ac-e5e2-445d-974c-285bd9782319.png =250x250)
+![welcome](https://user-images.githubusercontent.com/67331586/136978754-6976d4ac-e5e2-445d-974c-285bd9782319.png | width=100)
 Energetic and passionate Software Engineering Undergraduate👩‍🎓 working towards improving knowledge and skills in IT industry.💻 Looking forward for opportunities to enhance my capabilities while contributing to the enhancement of the organization.🙇‍♀️
 
 [![Sandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandinipitawala)](https://github.com/Sandinipitawala/github-readme-stats)
