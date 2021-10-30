@@ -17,12 +17,10 @@ Looking forward for opportunities to enhance my capabilities while contributing 
 [<img align="left" alt="Sandinipitawala | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sandinipitawala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sandinipitawala | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackOverFlow]
-[<img align="left" alt="Sandinipitawala | StackOverFlow" width="22px" src="http://i.imgur.com/9I6NRUm.png" />][github]
 [<img align="left" alt="Sandinipitawala | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV]
 
 [linkedin]: https://www.linkedin.com/in/sandini-pitawala-5b2504194/
 [facebook]: https://www.facebook.com/sandini.pitawala/
 [instagram]: https://www.instagram.com/sandini_97/
 [stackOverFlow]: https://stackoverflow.com/users/13898644/sandini-pitawala
-[github]: https://github.com/Sandinipitawala
 [DEV]: https://dev.to/sandinipitawala
